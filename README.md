@@ -1,5 +1,6 @@
 [getRandInt](https://github.com/JDMcKinstry/JavaScript-getRandInt) - Random Numbers Made EZ!
 ================================
+<sub>As Seen @ http://spyk3lc.blogspot.com/2016/04/javascript-get-random-number-between.html</sub>
 
 This simple and easy to use method allows you to quickly and easly get a random Float, whole Int, or `n` Decimal long String Random Number based on 2 given numbers. Provide "min" & "max" in order to get any random number from the minimum to the maximum. **OR**, swap the order of the parameters and ensure you never get the exact minimum or maximum numbers, but always a random number between the two!
 
