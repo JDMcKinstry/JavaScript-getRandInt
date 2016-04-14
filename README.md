@@ -13,10 +13,10 @@ This simple and easy to use method allows you to quickly and easly get a random 
 
 Example Use
 ---
- - `rand(1, 2)` = 1.2783833924813244 <i>Will be any Number **from** min **to** max</i>
- - `rand(1, 2, false)` = 1.048028815274805 <i>Will be any Number **from** min **to** max</i>
- - `rand(1, 2, true)` = 1 <i>Will be any **Whole** Number **from** min **to** max</i>
- - `rand(1, 2, 19)` = 1.5612295703389058588 <i>Will have **19** decimal places.</i>
- - `rand(2, 1)` = 1.3221148112756618 <i>Will **never equal** 2 or 1</i>
+ - `getRandInt(1, 2)` = 1.2783833924813244 // <i>Will be any Number **from** min **to** max</i>
+ - `getRandInt(1, 2, false)` = 1.048028815274805 // <i>Will be any Number **from** min **to** max</i>
+ - `getRandInt(1, 2, true)` = 1 // <i>Will be any **Whole** Number **from** min **to** max</i>
+ - `getRandInt(1, 2, 19)` = 1.5612295703389058588 // <i>Will have **19** decimal places.</i>
+ - `getRandInt(2, 1)` = 1.3221148112756618 // <i>Will **never equal** 2 or 1</i>
 
 # [jsFiddle](http://jsfiddle.net/SpYk3/2aj6v0v2/)
