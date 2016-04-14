@@ -4,10 +4,10 @@
 This simple and easy to use method allows you to quickly and easly get a random Float, whole Int, or `n` Decimal long String Random Number based on 2 given numbers. Provide "min" & "max" in order to get any random number from the minimum to the maximum. **OR**, swap the order of the parameters and ensure you never get the exact minimum or maximum numbers, but always a random number between the two!
 
 ## Quick Links
- - [Raw JS for Global Method "getRandInt"](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/getRandInt.js)
-  - [Raw JS Minified for Global Method "getRandInt"](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/getRandInt.min.js)
- - [Raw JS for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/getRandInt.js)
-  - [Raw JS Minified for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/getRandInt.min.js)
+ - [Raw JS for Global Method "getRandInt"](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/window.getRandInt.js)
+  - [Raw JS Minified for Global Method "getRandInt"](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/window.getRandInt.min.js)
+ - [Raw JS for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/Math.getRandInt.js)
+  - [Raw JS Minified for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/Math.getRandInt.min.js)
  - [Raw JS for jQuery.getRandInt](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/jQuery.getRandInt.js)
 
 Example Use
