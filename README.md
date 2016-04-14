@@ -9,6 +9,7 @@ This simple and easy to use method allows you to quickly and easly get a random 
  - [Raw JS for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/Math.getRandInt.js)
   - [Raw JS Minified for Math["getRandInt"]](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/Math.getRandInt.min.js)
  - [Raw JS for jQuery.getRandInt](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/jQuery.getRandInt.js)
+ - [All Method Types in 1 Package!](https://rawgit.com/JDMcKinstry/JavaScript-getRandInt/master/getRandInt.all.min.js)
 
 Example Use
 ---
